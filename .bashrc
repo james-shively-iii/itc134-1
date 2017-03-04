@@ -124,3 +124,5 @@ PS1='
 \[\e[0;36m\]ᒟ\[\e[0;35m\]ᔘ\[\e[0;34m\]ᔘ\[\e[0;36m\]ᔘ\[\e[0;31m\]ᔘ\[\e[0;35m\]ᔘ\[\e[0;34m\]ᔘ\[\e[0;36m\]ᔘ\[\e[0;35m\]ᔘ\[\e[0;34m\]ᔘ\[\e[0;36m\]ᔘ\[\e[0;31m\]ᔘ\[\e[0;35m\]ᔘ\[\e[0;34m\]ᔘ\[\e[0;35m\]ᔘ\[\e[0;34m\]ᔘ\[\e[0;31m\]ᔘ\[\e[0;36m\]ᒏ
 ❦❧ ❦❧ ❦❧ \[\e[1;30m\]\w \[\e[0;36m\]❦❧ ❦❧ ❦❧ ✎ \[\e[m\] '
 
+# Craig Peterson tested this .bashrc file at 11:04am on Saturday, March 4th. The colorful unicode icons surrounding the command prompt look AMAZING!
+
