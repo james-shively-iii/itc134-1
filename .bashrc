@@ -126,3 +126,4 @@ PS1='
 
 # Craig Peterson tested this .bashrc file at 11:04am on Saturday, March 4th. The colorful unicode icons surrounding the command prompt look AMAZING!
 
+# This has been tested and approved by Papa Brady (James the 3rd). 2157 4th day of March, 2017.  I really like the colorful symbols surrounding it.
